@@ -1,2 +1,3 @@
-# strawpoll
-An easy-to-use online poll creation application. http://strawpoll.me/
+# Straw Poll
+
+Please use this repository to report issues and request new features.
