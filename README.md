@@ -1,6 +1,6 @@
 # Straw Poll
 
-Please use this repository to report issues and request new features.
+For support on Strawpoll, please go to [Strawpoll.me Support](http://support.strawpoll.me/hc/en-us )
 
 
 ## Other resources
